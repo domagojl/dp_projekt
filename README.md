@@ -9,7 +9,7 @@ Ovaj projekt predstavlja implementaciju interaktivne simulacije sustava unutar d
 - **Logička verifikacija:** Uvjeti pobjede temeljeni na konjunkciji predikata (Clearance AND Power AND Stable Temperature).
 
 ## Kako pokrenuti
-1. Kopirajte sadržaj `Source/SystemDelta.ni` u [Borogrove.app](https://borogrove.app) ili lokalni Inform 7 IDE.
+1. Kopirajte sadržaj `Source/SystemDelta.ni` u [Borogrove.app](https://borogrove.app/inform7) ili lokalni Inform 7 IDE.
 2. Pritisnite **Go** ili **Compile**.
 
 ## Licenca
